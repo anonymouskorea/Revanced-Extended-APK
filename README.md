@@ -11,8 +11,3 @@
 * Youtube 앱 로고가 오리지널 로고임.
 * Based on the Revanced Extended <br>version by inotia00.
 * The YouTube app retains <br>the original logo. 
-
-### How to Use
-
-#### Description
-##### User Manual<br><a href="https://lctw2022.blogspot.com/2024/10/blog-post.html?m=1">Click!!</a> 
